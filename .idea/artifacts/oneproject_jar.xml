@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="oneproject:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/oneproject_jar</output-path>
+    <root id="archive" name="oneproject.jar">
+      <element id="module-output" name="oneproject" />
+    </root>
+  </artifact>
+</component>

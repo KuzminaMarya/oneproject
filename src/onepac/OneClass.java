@@ -1,6 +1,6 @@
 package onepac;
 
-public class oneclass {
+public class OneClass {
     public static void main(String[] args) {
         System.out.println("Первый проект");
     }
